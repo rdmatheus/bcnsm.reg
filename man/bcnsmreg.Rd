@@ -129,7 +129,6 @@ plot(fit_gaussian)
 plot(fit_gaussian, "epsilon")
 }
 
-
 }
 \author{
 Rodrigo M. R. de Medeiros <\email{rodrigo.matheus@live.com}>

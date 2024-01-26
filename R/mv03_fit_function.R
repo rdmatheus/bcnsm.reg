@@ -98,6 +98,7 @@
 #' plot(fit_gaussian, "epsilon")
 #' }
 #'
+#' @export
 #'
 bcnsmreg <- function(formula, data, subset, na.action,
                      margins = "bcno",

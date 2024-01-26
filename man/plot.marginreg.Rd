@@ -30,7 +30,7 @@ The available arguments are \code{"conditional"} (default), \code{"quantile"}, a
 Diagnostic plots for the BCNSM marginal regression models
 }
 \details{
-The \code{which} argument can be used to select a subset of currently seven supported
+The \code{which} argument can be used to select a subset of currently six supported
     types of displays. The displays are:
 
 \describe{
